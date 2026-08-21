@@ -12,6 +12,21 @@
         "GitHub.copilot-chat",
         "ritwickdey.LiveServer"
       ]
+    },
+    "codespaces": {
+      "repositories": {
+        "georgya81/rvdb_agentic_demo_georgya": {
+          "permissions": {
+            "actions": "write",
+            "checks": "write",
+            "contents": "write",
+            "discussions": "write",
+            "issues": "write",
+            "pull_requests": "write",
+            "workflows": "write"
+          }
+        }
+      }
     }
   }
 }
